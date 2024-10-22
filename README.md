@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 <p>
+<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="25px"/>
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF3F06?style=for-the-badge&logo=tensorflow&logoColor=white" height="25px"/>
+<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" height="25px"/>
+<img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="25px"/>
 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25px"/>
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="25px"/> 
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
