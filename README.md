@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <p>
+<img alt=".Net" src=" https://img.shields.io/badge/-.NET%206.0-blueviolet" height="25px"/>
 <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="25px"/>
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF3F06?style=for-the-badge&logo=tensorflow&logoColor=white" height="25px"/>
 <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" height="25px"/>
