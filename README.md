@@ -46,7 +46,7 @@
   </a>
   
   <div style="margin: 15px 0;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datkanber&layout=compact&theme=github-dark-blue&hide_border=true&border_radius=10" alt="Top Languages" style="max-width: 100%; border-radius: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datkanber&layout=compact&theme=github-dark-blue&hide_border=true&border_radius=10&card_width=300" alt="Top Languages" style="max-width: 100%; border-radius: 10px;" />
   </div>
   
   <p style="margin-top: 15px; color: #00FF7F; font-family: 'Roboto', sans-serif; font-size: 14px;">
