@@ -1,24 +1,25 @@
-<div align="center" style="background: linear-gradient(135deg, #1d1f21, #282c34); padding: 20px; border-radius: 15px;">
-  <h1>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I+am+Burak!;+A+Passionate+Developer!;+Let’s+Create+Something+Amazing!;&center=true&font=Roboto&size=28&color=00FF7F&vCenter=true&width=700&height=80">
-    </a>
+<div align="center" style="background: #1d1f21; padding: 20px; border-radius: 10px; max-width: 600px; margin: auto;">
+  <h1 style="margin: 0; color: #00FF7F; font-family: 'Roboto', sans-serif; font-size: 32px;">
+    👋 Hi, I’m <span style="color: #00C1D4;">Burak</span>!
   </h1>
-
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=datkanber&theme=react-dark&hide_border=true&border_radius=15" alt="GitHub Streak Stats" />
+  <p style="margin: 10px 0; color: #A9A9A9; font-family: 'Fira Code', monospace; font-size: 16px;">
+    🚀 Passionate about building impactful solutions.
   </p>
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datkanber&layout=compact&theme=react-dark&hide_border=true&border_radius=15" alt="Top Languages" />
-  </p>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=datkanber&style=flat-square&color=00FF7F" alt="Profile Views" />
-  </p>
-
-  <p style="color: #00FF7F; font-size: 18px; font-family: 'Fira Code', monospace; margin-top: 15px;">
-    🚀 Turning Ideas into Code | 🌐 Exploring the Digital Frontier | 💡 Innovating One Line at a Time
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer+|+Problem+Solver+|+Innovator;&center=true&font=Fira+Code&size=20&color=00C1D4&width=450&height=50" alt="Typing SVG" />
+  </a>
+  
+  <div style="margin: 15px 0;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=datkanber&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Streak Stats" style="max-width: 100%; border-radius: 10px;" />
+  </div>
+  
+  <div style="margin: 15px 0;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datkanber&layout=compact&theme=github-dark-blue&hide_border=true&border_radius=10" alt="Top Languages" style="max-width: 100%; border-radius: 10px;" />
+  </div>
+  
+  <p style="margin-top: 15px; color: #00FF7F; font-family: 'Roboto', sans-serif; font-size: 14px;">
+    🌟 Let’s connect and create something extraordinary!
   </p>
 </div>
 
