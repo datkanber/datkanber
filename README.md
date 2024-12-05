@@ -1,5 +1,5 @@
 <div align="center" style="background: #82eddd; padding: 20px; max-width: 600px; margin: auto;">
-  <h1 style="margin: 0; color: #00FF7F; font-family: 'Roboto', sans-serif; font-size: 32px;">
+  <h1 style="margin: 0; color: #00FF7F; font-family: 'Roboto', sans-serif; font-size: 32px; text-decoration: none;">
     👋 Hi, I’m <span style="color: #00C1D4;">Burak</span>!
   </h1>
 
@@ -42,7 +42,7 @@
   </p>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer|Problem+Solver+|+Innovator;&center=true&font=Fira+Code&size=20&color=00C1D4&width=450&height=50" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer|Problem+Solver|Innovator;&center=true&font=Fira+Code&size=20&color=00C1D4&width=450&height=50" alt="Typing SVG" />
   </a>
   
   <div style="margin: 15px 0;">
