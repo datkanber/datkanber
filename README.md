@@ -59,6 +59,6 @@
 </div>
 
 <div align="center">
-  <img  src="https://github.com/krishnathakkar29/krishnathakkar29/blob/main/grid-snake.svg"
+  <img  src="https://github.com/datkanber/datkanber/blob/main/grid-snake.svg"
        alt="snake" /></a>
 </div>
