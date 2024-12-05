@@ -2,6 +2,8 @@
   <h1 style="margin: 0; color: #00FF7F; font-family: 'Roboto', sans-serif; font-size: 32px; text-decoration: none;">
     👋 Hi, I’m <span style="color: #00C1D4;">Burak</span>!
   </h1>
+</div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
