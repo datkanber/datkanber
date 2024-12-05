@@ -1,4 +1,4 @@
-<div align="center" style="background: #1d1f21; padding: 20px; max-width: 600px; margin: auto;">
+<div align="center" style="background: #82eddd; padding: 20px; max-width: 600px; margin: auto;">
   <h1 style="margin: 0; color: #00FF7F; font-family: 'Roboto', sans-serif; font-size: 32px;">
     👋 Hi, I’m <span style="color: #00C1D4;">Burak</span>!
   </h1>
