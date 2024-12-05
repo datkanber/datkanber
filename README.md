@@ -1,8 +1,10 @@
 🏺 Welcome to My Ancient Codex 🏺
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> <div align="center"> <h1 align="center">Hi there 👋, I'm Burak</h1> <h3 align="center">Crafting Codes in an Ancient World</h3> </div>
 Languages and Tools 🛠️
+
 Programming Languages
 <div align="center"> ![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-783bd2?style=plastic&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0.svg?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) </div>
+
 Frontend Technologies
 <div align="center"> ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232A.svg?style=plastic&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=plastic&logo=next.js&logoColor=white) </div>
 Backend Technologies
