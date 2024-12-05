@@ -2,85 +2,8 @@
   <h1 style="margin: 0; color: #00FF7F; font-family: 'Roboto', sans-serif; font-size: 32px;">
     👋 Hi, I’m <span style="color: #00C1D4;">Burak</span>!
   </h1>
-  <p style="margin: 10px 0; color: #A9A9A9; font-family: 'Fira Code', monospace; font-size: 16px;">
-    🚀 Passionate about building impactful solutions.
-  </p>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer+|+Problem+Solver+|+Innovator;&center=true&font=Fira+Code&size=20&color=00C1D4&width=450&height=50" alt="Typing SVG" />
-  </a>
-  
-  <div style="margin: 15px 0;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=datkanber&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Streak Stats" style="max-width: 100%; border-radius: 10px;" />
-  </div>
-  
-  <div style="margin: 15px 0;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datkanber&layout=compact&theme=github-dark-blue&hide_border=true&border_radius=10" alt="Top Languages" style="max-width: 100%; border-radius: 10px;" />
-  </div>
-  
-  <p style="margin-top: 15px; color: #00FF7F; font-family: 'Roboto', sans-serif; font-size: 14px;">
-    🌟 Let’s connect and create something extraordinary!
-  </p>
-</div>
 
-<div align="center">
-  <img  src="https://github.com/krishnathakkar29/krishnathakkar29/blob/main/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center" style="background: linear-gradient(145deg, #1d1f21, #282c34); padding: 20px; border-radius: 15px; max-width: 700px; margin: auto; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.7);">
-  <h1 style="margin: 0; color: #00FF7F; font-family: 'Roboto', sans-serif; font-size: 32px; animation: fadeIn 2s ease-in-out;">
-    👋 Hi, I’m <span style="color: #00C1D4;">Burak</span>!
-  </h1>
-  <p style="margin: 10px 0; color: #A9A9A9; font-family: 'Fira Code', monospace; font-size: 16px; animation: typing 3s steps(22, end), blink-caret 0.75s step-end infinite;">
-    🚀 Passionate about creating meaningful experiences.
-  </p>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer+|+Problem+Solver+|+Innovator+|+Tech+Enthusiast;&center=true&font=Fira+Code&size=20&color=00C1D4&width=500&height=50" alt="Typing SVG" />
-  </a>
-  
-  <div style="margin: 15px 0;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=datkanber&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Streak Stats" style="max-width: 100%; border-radius: 10px; animation: fadeIn 3s ease-in-out;" />
-  </div>
-  
-  <div style="margin: 15px 0;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datkanber&layout=compact&theme=github-dark-blue&hide_border=true&border_radius=10" alt="Top Languages" style="max-width: 100%; border-radius: 10px; animation: fadeIn 3.5s ease-in-out;" />
-  </div>
-  
-  <p style="margin-top: 15px; color: #00FF7F; font-family: 'Roboto', sans-serif; font-size: 14px; animation: fadeIn 4s ease-in-out;">
-    🌟 Building the future, one line of code at a time.
-  </p>
-  
-  <p style="color: #C0C0C0; font-family: 'Roboto', sans-serif; font-size: 12px; margin-top: 10px;">
-    💻 Follow my journey on GitHub & contribute to the open-source world!
-  </p>
-</div>
-
-<style>
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-    transform: translateY(10px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-@keyframes typing {
-  from { width: 0; }
-  to { width: 100%; }
-}
-
-@keyframes blink-caret {
-  from, to { border-color: transparent; }
-  50% { border-color: #00FF7F; }
-}
-</style>
-
 
 ![.NET](https://img.shields.io/badge/-.NET-783bd2?style=plastic&logo=dotnet&logoColor=white) 
 ![C#](https://img.shields.io/badge/-C%23-783bd2?style=plastic&logo=csharp&logoColor=white) 
@@ -113,3 +36,29 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+  <p style="margin: 10px 0; color: #A9A9A9; font-family: 'Fira Code', monospace; font-size: 16px;">
+    🚀 Passionate about building impactful solutions.
+  </p>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer+|+Problem+Solver+|+Innovator;&center=true&font=Fira+Code&size=20&color=00C1D4&width=450&height=50" alt="Typing SVG" />
+  </a>
+  
+  <div style="margin: 15px 0;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=datkanber&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Streak Stats" style="max-width: 100%; border-radius: 10px;" />
+  </div>
+  
+  <div style="margin: 15px 0;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datkanber&layout=compact&theme=github-dark-blue&hide_border=true&border_radius=10" alt="Top Languages" style="max-width: 100%; border-radius: 10px;" />
+  </div>
+  
+  <p style="margin-top: 15px; color: #00FF7F; font-family: 'Roboto', sans-serif; font-size: 14px;">
+    🌟 Let’s connect and create something extraordinary!
+  </p>
+</div>
+
+<div align="center">
+  <img  src="https://github.com/krishnathakkar29/krishnathakkar29/blob/main/grid-snake.svg"
+       alt="snake" /></a>
+</div>
