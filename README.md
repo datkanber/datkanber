@@ -1,18 +1,26 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I+am+Burak!;+A+Passionate+Developer!;&center=true&font=Fira+Code&size=28&color=00C1D4&vCenter=true&width=500&height=70">
-  </a>
-</h1>
+<div align="center" style="background: linear-gradient(135deg, #1d1f21, #282c34); padding: 20px; border-radius: 15px;">
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I+am+Burak!;+A+Passionate+Developer!;+Let’s+Create+Something+Amazing!;&center=true&font=Roboto&size=28&color=00FF7F&vCenter=true&width=700&height=80">
+    </a>
+  </h1>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=burakkanber&theme=github-dark&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=datkanber&theme=react-dark&hide_border=true&border_radius=15" alt="GitHub Streak Stats" />
+  </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=burakkanber&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datkanber&layout=compact&theme=react-dark&hide_border=true&border_radius=15" alt="Top Languages" />
+  </p>
 
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=datkanber&style=flat-square&color=00FF7F" alt="Profile Views" />
+  </p>
 
+  <p style="color: #00FF7F; font-size: 18px; font-family: 'Fira Code', monospace; margin-top: 15px;">
+    🚀 Turning Ideas into Code | 🌐 Exploring the Digital Frontier | 💡 Innovating One Line at a Time
+  </p>
+</div>
 
 <div align="center">
   <img  src="https://github.com/krishnathakkar29/krishnathakkar29/blob/main/grid-snake.svg"
