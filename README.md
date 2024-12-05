@@ -21,7 +21,7 @@
 
 <div align="center" style="background-color: #f5deb3; padding: 20px; border-radius: 15px;">
   <h3 align="center" style="color: goldenrod;">Programming Languages</h3>
-  <p>
+
     ![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=cplusplus&logoColor=white)
     ![C#](https://img.shields.io/badge/C%23-783bd2?style=plastic&logo=csharp&logoColor=white)
@@ -29,7 +29,6 @@
     ![Python](https://img.shields.io/badge/Python-3670A0.svg?style=plastic&logo=python&logoColor=ffdd54)
     ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=F7DF1E)
     ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-  </p>
 
   <h3 align="center" style="color: goldenrod;">Frontend Technologies</h3>
   <p>
