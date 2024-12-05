@@ -1,8 +1,9 @@
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h3 style="display: inline-block">Hi 👋, I'm Burak</h3></summary>
-  </ul>
-</div>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Burak!;&center=true&font=Sans-serif&size=28&color=000000">
+  </a>
+</h1>
+
 
 <div align="center">
   <img  src="https://github.com/krishnathakkar29/krishnathakkar29/blob/main/grid-snake.svg"
