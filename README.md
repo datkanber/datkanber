@@ -1,10 +1,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Krishna</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Burak</h1></summary>
   </ul>
 </div>
-### Hi there 👋
+
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
   <img  src="https://github.com/krishnathakkar29/krishnathakkar29/blob/main/grid-snake.svg"
@@ -57,3 +57,4 @@
 <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
 <img alt="Postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
