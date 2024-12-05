@@ -1,8 +1,3 @@
-<div align="center" style="background: #1d1f21; padding: 20px; border-radius: 10px; max-width: 600px; margin: auto;">
-  <h1 style="margin: 0; color: #00FF7F; font-family: 'Roboto', sans-serif; font-size: 32px;">
-    👋 Hi, I’m <span style="color: #00C1D4;">Burak</span>!
-  </h1>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![.NET](https://img.shields.io/badge/-.NET-783bd2?style=plastic&logo=dotnet&logoColor=white) 
