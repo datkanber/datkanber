@@ -1,8 +1,17 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I+am+Burak!;&center=true&font=Roboto&size=30&color=00FF7F">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I+am+Burak!;+A+Passionate+Developer!;&center=true&font=Fira+Code&size=28&color=00C1D4&vCenter=true&width=500&height=70">
   </a>
 </h1>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=burakkanber&theme=github-dark&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=burakkanber&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
 
 
 <div align="center">
