@@ -42,7 +42,7 @@
   </p>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer+|+Problem+Solver+|+Innovator;&center=true&font=Fira+Code&size=20&color=00C1D4&width=450&height=50" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer|Problem+Solver|Innovator;&center=true&font=Fira+Code&size=20&color=00C1D4&width=450&height=50" alt="Typing SVG" />
   </a>
   
   <div style="margin: 15px 0;">
