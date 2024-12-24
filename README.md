@@ -46,10 +46,6 @@
   </a>
   
   <div style="margin: 15px 0;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=datkanber&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Streak Stats" style="max-width: 100%; border-radius: 10px;" />
-  </div>
-  
-  <div style="margin: 15px 0;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datkanber&layout=compact&theme=github-dark-blue&hide_border=true&border_radius=10" alt="Top Languages" style="max-width: 100%; border-radius: 10px;" />
   </div>
   
