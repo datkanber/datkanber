@@ -13,5 +13,4 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=wwwroot+hello+world!;hi+there!+i'm+using+github;&center=true&font=Fira+Code&size=22&color=00C1D4&width=600&height=50" alt="Typing SVG" />
 </a>
 
-![image](https://github.com/user-attachments/assets/5494f60d-12e6-4976-a0a0-0df3846c40cc)
 
