@@ -8,9 +8,3 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=plastic&logo=redux&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=wwwroot+hello+world!;hi+there!+i'm+using+github;&center=true&font=Fira+Code&size=22&color=00C1D4&width=600&height=50" alt="Typing SVG" />
-</a>
-
-
