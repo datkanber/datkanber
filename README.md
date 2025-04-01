@@ -6,5 +6,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB) 
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=plastic&logo=redux&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
