@@ -9,7 +9,6 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=plastic&logo=redux&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
 
-  
-   <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.herokuapp.com/?lines=wwwroot+hello+world!;hello+there;&center=true&font=Fira+Code&size=22&color=00C1D4&width=600&height=50" alt="Typing SVG" />
-   </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=wwwroot+hello+world!;hello+there;&center=true&font=Fira+Code&size=22&color=00C1D4&width=600&height=50" alt="Typing SVG" />
+</a>
