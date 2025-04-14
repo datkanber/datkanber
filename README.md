@@ -11,8 +11,10 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/WSL-006400?style=plastic&logo=linux&logoColor=white"/>
 </p>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&width=700&height=50&lines=it+was+working+...+until+you+looked.;yes+this+is+intentional.;99%+done+(trust+me);i+do+backend+...+and+emotional+damage" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=007AFF&center=true&vCenter=true&width=700&height=50&lines=it+was+working+...+until+you+looked.;99%+done+(trust+me)" alt="Typing SVG" />
   </a>
 </p>
+
