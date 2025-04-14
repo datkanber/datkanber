@@ -12,9 +12,8 @@
   <img src="https://img.shields.io/badge/WSL-006400?style=plastic&logo=linux&logoColor=white"/>
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=007AFF&center=true&vCenter=true&width=700&height=50&lines=it+was+working+...+until+you+looked.;99%+done+(trust+me)" alt="Typing SVG" />
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=it+was+working+...+until+you+looked.;99%+done+(trust+me)&center=true&font=Fira+Code&size=22&color=007AFF&width=600&height=50" alt="Typing SVG" />
+</a>
+
 
