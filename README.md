@@ -15,3 +15,6 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=it+was+working+...+until+you+looked.;99%+done+(trust+me);&center=true&font=Fira+Code&size=22&color=00C1D4&width=600&height=50" alt="Typing SVG" />
 </a>
+<p align="center">
+  <img src="https://count.getloli.com/get/@datkanber?theme=moebooru" alt="Ziyaretçi Sayacı" />
+</p>
