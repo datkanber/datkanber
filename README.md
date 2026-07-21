@@ -18,3 +18,7 @@
   <a href="https://orcid.org/0009-0006-5688-5372"><img src="https://img.shields.io/badge/ORCID-%23003399?style=plastic&logo=orcid&logoColor=white" alt="ORCID" /></a>
   <a href="mailto:burak2kanber@gmail.com"><img src="https://img.shields.io/badge/Email-%23003399?style=plastic&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMiA2QzIyIDQuOSAyMS4xIDQgMjAgNEg0QzIuOSA0IDIgNC45IDIgNlYxOEMyIDE5LjEgMi45IDIwIDQgMjBIMjBDMjEuMSAyMCAyMiAxOS4xIDIyIDE4VjZaTTIwIDZMMTIgMTFMNCA2SDIwWk0yMCAxOEg0VjhMMTIgMTNMMjAgOFYxOFoiLz48L3N2Zz4=&logoColor=white" alt="Email" /></a>
 </p>
+
+<p align="center">
+  <img src="https://tenor.com/view/regular-show-rigby-mordecai-you-tell-em-typing-gif-12033125192641701091.gif" alt="Regular Show Typing" width="300" />
+</p>
