@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://avesis.ogu.edu.tr/arastirma-grubu/geoknow"><img src="https://img.shields.io/badge/GeoKnow-%23003399?style=plastic&logo=googleearth&logoColor=white" alt="GeoKnow" /></a>
   <a href="https://matisse-kdt.eu/"><img src="https://img.shields.io/badge/MATISSE_Project-%23003399?style=plastic&logo=european-union&logoColor=white" alt="MATISSE" /></a>
   <a href="https://ifarlab.ogu.edu.tr/"><img src="https://img.shields.io/badge/IFARLAB--EDIH-%23003399?style=plastic&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMCA2aC00VjRjMC0xLjExLS44OS0yLTItMmgtNGMtMS4xMSAwLTIgLjg5LTIgMnYySDRjLTEuMTEgMC0xLjk5Ljg5LTEuOTkgMkwyIDE5YzAgMS4xMS44OSAyIDIgMmgxNmMxLjExIDAgMi0uODkgMi0yVjhjMC0xLjExLS44OS0yLTItMnptLTYgMGgtNFY0aDR2MnoiLz48L3N2Zz4=&logoColor=white" alt="IFARLAB-EDIH" /></a>
   <a href="https://store.datkanber.org/store/"><img src="https://img.shields.io/badge/Personal_Store-%23003399?style=plastic&logo=astro&logoColor=white" alt="Store" /></a>
