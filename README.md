@@ -1,19 +1,10 @@
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Click+the+badges+below+for+more+information;Check+out+our+work+and+social+links;&center=true&font=Fira+Code&size=11&color=#767676&width=500&height=30" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://avesis.ogu.edu.tr/arastirma-grubu/geoknow"><img src="https://img.shields.io/badge/GeoKnow-%23003399?style=plastic&logo=googleearth&logoColor=white" alt="GeoKnow" /></a>
   <a href="https://matisse-kdt.eu/"><img src="https://img.shields.io/badge/MATISSE_Project-%23003399?style=plastic&logo=european-union&logoColor=white" alt="MATISSE" /></a>
   <a href="https://ifarlab.ogu.edu.tr/"><img src="https://img.shields.io/badge/IFARLAB--EDIH-%23003399?style=plastic&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMCA2aC00VjRjMC0xLjExLS44OS0yLTItMmgtNGMtMS4xMSAwLTIgLjg5LTIgMnYySDRjLTEuMTEgMC0xLjk5Ljg5LTEuOTkgMkwyIDE5YzAgMS4xMS44OSAyIDIgMmgxNmMxLjExIDAgMi0uODkgMi0yVjhjMC0xLjExLS44OS0yLTItMnptLTYgMGgtNFY0aDR2MnoiLz48L3N2Zz4=&logoColor=white" alt="IFARLAB-EDIH" /></a>
   <a href="https://store.datkanber.org/store/"><img src="https://img.shields.io/badge/Personal_Store-%23003399?style=plastic&logo=astro&logoColor=white" alt="Store" /></a>
   <a href="https://blog.datkanber.org/"><img src="https://img.shields.io/badge/Personal_Blog-%23003399?style=plastic&logo=hexo&logoColor=white" alt="Blog" /></a>
-</p>
-<p align="center">
-  <img src="https://tenor.com/view/regular-show-rigby-mordecai-you-tell-em-typing-gif-12033125192641701091.gif" alt="Regular Show Typing" width="100" />
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/burak2kanber"><img src="https://img.shields.io/badge/LinkedIn-%23003399?style=plastic&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41VjEzLjJhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjMyIDEuM1YxMC4ySDEwLjV2OC4zaDIuNXYtNC41YTEuNSAxLjUgMCAwIDEgMS41LTEuNTEuNSAxLjUgMCAwIDEgMS41IDEuNXY0LjVoMi41TTEwLjIgOCBINS41djguM0g4VjEwLjJNNi43IDUuMmExLjUgMS41IDAgMCAwLTEuNSAxLjVjMCAuODMuNjcgMS41IDEuNSAxLjVhMS41IDEuNSAwIDAgMCAxLjUtMS41YzAtLjgzLS42Ny0xLjUtMS41LTEuNXoiLz48L3N2Zz4=&logoColor=white" alt="LinkedIn" /></a>
