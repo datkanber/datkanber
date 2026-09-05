@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://avesis.ogu.edu.tr/arastirma-grubu/geoknow"><img src="https://img.shields.io/badge/GeoKnow-%23003399?style=plastic&logo=googleearth&logoColor=white" alt="GeoKnow" /></a>
   <a href="https://matisse-kdt.eu/"><img src="https://img.shields.io/badge/MATISSE_Project-%23003399?style=plastic&logo=european-union&logoColor=white" alt="MATISSE" /></a>
@@ -12,3 +11,7 @@
   <a href="https://orcid.org/0009-0006-5688-5372"><img src="https://img.shields.io/badge/ORCID-%23003399?style=plastic&logo=orcid&logoColor=white" alt="ORCID" /></a>
   <a href="mailto:burak2kanber@gmail.com"><img src="https://img.shields.io/badge/Email-%23003399?style=plastic&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMiA2QzIyIDQuOSAyMS4xIDQgMjAgNEg0QzIuOSA0IDIgNC45IDIgNlYxOEMyIDE5LjEgMi45IDIwIDQgMjBIMjBDMjEuMSAyMCAyMiAxOS4xIDIyIDE4VjZaTTIwIDZMMTIgMTFMNCA2SDIwWk0yMCAxOEg0VjhMMTIgMTNMMjAgOFYxOFoiLz48L3N2Zz4=&logoColor=white" alt="Email" /></a>
 </p>
+
+<text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="blink">
+    光靠说话煮不熟米饭 
+</text>
