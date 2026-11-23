@@ -11,6 +11,11 @@
   <a href="https://orcid.org/0009-0006-5688-5372"><img src="https://img.shields.io/badge/ORCID-%23003399?style=plastic&logo=orcid&logoColor=white" alt="ORCID" /></a>
   <a href="mailto:burak2kanber@gmail.com"><img src="https://img.shields.io/badge/Email-%23003399?style=plastic&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMiA2QzIyIDQuOSAyMS4xIDQgMjAgNEg0QzIuOSA0IDIgNC45IDIgNlYxOEMyIDE5LjEgMi45IDIwIDQgMjBIMjBDMjEuMSAyMCAyMiAxOS4xIDIyIDE4VjZaTTIwIDZMMTIgMTFMNCA2SDIwWk0yMCAxOEg0VjhMMTIgMTNMMjAgOFYxOFoiLz48L3N2Zz4=&logoColor=white" alt="Email" /></a>
 </p>
-<text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="blink">
-    光靠说话煮不熟米饭 
-</text> 
+<h4 align="center">Products</h4>
+<p align="center">
+  <a href="https://www.asrlab.cloud/"><img src="https://img.shields.io/badge/ASRLab_Cloud-%230F766E?style=plastic&logo=icloud&logoColor=white" alt="ASRLab Cloud" /></a>
+  <a href="https://postbench.datkanber.org/"><img src="https://img.shields.io/badge/PostBench-%230F766E?style=plastic&logo=speedtest&logoColor=white" alt="PostBench" /></a>
+  <a href="https://geoknow.asrlab.cloud/"><img src="https://img.shields.io/badge/GeoKnow_Cloud-%230F766E?style=plastic&logo=googleearth&logoColor=white" alt="GeoKnow Cloud" /></a>
+  <a href="https://apps.apple.com/us/app/hilda-english/id6808136792"><img src="https://img.shields.io/badge/Hilda_English_(iOS)-%230F766E?style=plastic&logo=appstore&logoColor=white" alt="Hilda English iOS" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.burakkanber.hildaenglish"><img src="https://img.shields.io/badge/Hilda_English_(Android)-%230F766E?style=plastic&logo=googleplay&logoColor=white" alt="Hilda English Android" /></a>
+</p>
